@@ -81,7 +81,7 @@ ________________
 
 ## Chapter 1 - Checklist
 1. On the Windows Event Collector, Run Event Viewer by either Start->Run->eventvwr.exe, or under ‘Windows Administrative Tools’ in the start menu.
-2. Confirm machines are checking in, as per Figure 3. The 'Source Computers' field should contain the number of machines currently connected.
+2. Confirm machines are checking in, as per Figure 4. The 'Source Computers' field should contain the number of machines currently connected.
 
 
 ![Group Policy Setup](eventviewer.jpg)
